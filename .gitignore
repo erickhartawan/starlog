@@ -1,0 +1,6 @@
+dataset/
+.DS_Store
+ser-cnn-v2.ipynb
+features_withTempo.csv
+features7sept.csv
+features_notempo.csv
